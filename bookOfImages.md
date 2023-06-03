@@ -1,0 +1,5 @@
+![AutomatedStoryAuthorV11](https://github.com/StateDocuments/illinois-public/blob/main/fileslist.jpg)
+![AutomatedStoryAuthorV11](https://github.com/StateDocuments/illinois-public/blob/main/snapshot.jpg)
+![AutomatedStoryAuthorV11](https://github.com/StateDocuments/illinois-public/blob/main/snapshot@id=IL-IDOT-ST1.jpg)
+![AutomatedStoryAuthorV11](https://github.com/StateDocuments/illinois-public/blob/main/snapshot@id=IL-IDOT-ST1A.jpg)
+![AutomatedStoryAuthorV11](https://github.com/StateDocuments/illinois-public/blob/main/snapshot@id=IL-IDOT-ST1C.jpg)
