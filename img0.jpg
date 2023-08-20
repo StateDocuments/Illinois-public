@@ -84,7 +84,7 @@
           
           
           <span class='link'
-            onclick='changeDirection("IL-IDOTD4-camera_704", "E", "https%3A%2F%2Fcctv.travelmidwest.com%2Fsnapshots%2FIL-IDOTD4_7_Effingham_SWB_I-57_3913492_-8856316_1_E.jpg");'>East
+            onclick='changeDirection("IL-IDOTD4-camera_704", "E", "%2Fidot.illinois.gov%2FD4%2Fcamera_images%2Fcamera_704%2Feast_snapshot.jpg");'>East
           </span>
           </td>
         
@@ -94,7 +94,7 @@
         <td colspan='5' class='delcanCameraInner'> 
           
             <!--  Lake County  -->
-            <img id="snapshot" src='https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_7_Effingham_SWB_I-57_3913492_-8856316_1_E.jpg' alt='camera snapshot for I-57/I-70 at Keller Drive (#7004)' border='0'/>
+            <img id="snapshot" src='/idot.illinois.gov/D4/camera_images/camera_704/east_snapshot.jpg' alt='camera snapshot for I-57/I-70 at Keller Drive (#7004)' border='0'/>
           
           
         </td>
