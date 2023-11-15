@@ -69,15 +69,45 @@
 
 
 
+
   <h1>Real-time Camera Snapshot</h1>
   <h2>I-57/I-70 at Keller Drive (#7004)</h2>
-  <p>The image you are requesting was received by the Gateway approximately
-  16 minutes, 52 seconds ago.</p>
-  <p>Click the camera icon below if you want to view it anyway:</p>
-  <a href='showCamera.jsp?id=IL-IDOTD4-camera_704&direction=E&showOld=true'><img src='images/camera.png'></a>
-  <p>Click the button below if you do not:</p>
-  <input type='button' value='Close' onClick='window.close()'>
+  
+  
+  
+    <!-- Lake County camera (IESUX: 30px wide for the tabs is fine on cameraReport.jsp but not here??!!) -->
+    <table class='delcanCamera'>
+      <tr id='Dirs'>
+        
+          
+            <td id='E' class='delcanCameraDirTabSelected' style='width: 40px'>
+          
+          
+          <span class='link'
+            onclick='changeDirection("IL-IDOTD4-camera_704", "E", "https%3A%2F%2Fcctv.travelmidwest.com%2Fsnapshots%2FIL-IDOTD4_7_Effingham_SWB_I-57_3913492_-8856316_1_E.jpg");'>East
+          </span>
+          </td>
+        
+        <td class='delcanCameraDirTabSpacer'>&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan='5' class='delcanCameraInner'> 
+          
+            <!--  Lake County  -->
+            <img id="snapshot" src='https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_7_Effingham_SWB_I-57_3913492_-8856316_1_E.jpg' alt='camera snapshot for I-57/I-70 at Keller Drive (#7004)' border='0'/>
+          
+          
+        </td>
+      </tr>
+    </table>
+  
 
+  <br style='line-height: 5px'>
+  <p>
+    <input id="refresh" type='button' value='Refresh'>&nbsp;&nbsp;&nbsp;
+    <input type='button' value='Close' onClick='window.close()'>
+  </p>
+  <p>Normally, a real-time snapshot is taken once every 5 minutes.</p>
 
 
 
